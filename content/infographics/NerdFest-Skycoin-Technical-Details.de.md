@@ -16,7 +16,7 @@
      length = 282624
  +++
  
-  ## Skycoin führt die Blockchain-Innovation. Glauben Sie uns nicht? Überzeugen Sie sich selbst!
+  ## Skycoin führt die Blockchain-Innovation an. Glauben Sie uns nicht? Überzeugen Sie sich selbst!
 
   * Verbesserungen bei der Netzwerksicherheit
   * Doppelte Coinbase-Outputs wurden eliminiert
