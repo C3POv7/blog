@@ -2,7 +2,6 @@
  title = "NERDFEST: Skycoin Technische Details [INFOGRAPHIC]"
  tags = [
      "Skycoin Technical Details",
-     "Skycoin technische Details",
      "Infographics",
  ]
  bounty = 4
