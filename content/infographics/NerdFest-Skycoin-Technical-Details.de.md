@@ -1,5 +1,5 @@
 +++
- title = "NERDFEST: Skycoin Technische Details [INFOGRAPHIC]"
+ title = "NERDFEST: Skycoin Technical Details [INFOGRAPHIC]"
  tags = [
      "Skycoin Technical Details",
      "Infographics",
