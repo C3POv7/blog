@@ -1,8 +1,9 @@
 +++
- title = "NERDFEST: Skycoin Technical Details [INFOGRAPHIC]"
+ title = "NERDFEST: Skycoins Technische Details [INFOGRAPHIC]"
  tags = [
      "Skycoin Technical Details",
      "Infographics",
+     "Skycoins technische Details",
  ]
  bounty = 4
  date = "2018-09-14"
