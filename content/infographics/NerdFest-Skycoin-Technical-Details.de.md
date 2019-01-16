@@ -22,8 +22,8 @@ length = 282624
 * Doppelte Coinbase-Outputs wurden eliminiert
 * Sicherheit vor 51-Prozent-Angriffen
 * Unterstützung für das GMaxwell CoinJoin-Protokoll zum Schutz der Privatsphäre
-* Unterschrift-Fälschbarkeit beseitigt
+* Fälschbarkeit der Signatur beseitigt
 * Beseitigung von Minern
 * Blockheader-Fehlerkorrektur
 * Anpassbare Blockchain-Größe ermöglicht die Skalierung von Netzwerktransaktionen
-* TX / UTXO-Transaktionsstruktur, die Welten besser ist, als die Multigraphs von Bitcoin
+* TX/UTXO-Transaktionsstruktur, die Welten besser ist, als die Multigraphs von Bitcoin
